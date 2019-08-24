@@ -29,6 +29,8 @@ RESPONSIVE
 /*----------------------------*\
 	typography
 \*----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');
  body {
      font-family: 'Nunito', sans-serif;
      font-size: 16px;
@@ -39,13 +41,13 @@ RESPONSIVE
      overflow-x: hidden;
 }
  h1, h2, h3, h4, h5, h6 {
-     font-family: 'Nunito Sans', sans-serif;
-     font-weight: 700;
+     font-family: 'Didact Gothic';
+     
      color: #212631;
      margin: 0px 0px 15px;
 }
  h1 {
-     font-size: 34px;
+     font-size: 44px;
 }
  h2 {
      font-size: 28px;
